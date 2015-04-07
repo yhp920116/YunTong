@@ -1,0 +1,85 @@
+
+/* 2012-03-07 */
+
+#ifndef TNET_TYPES_H
+#define TNET_TYPES_H
+
+#include "tinynet_config.h"
+
+#if TNET_UNDER_WINDOWS
+#	include	<winsock2.h>
+#	include	<ws2tcpip.h>
+#	include <iphlpapi.h>
+#else
+#	include <sys/types.h>
+#	include <sys/socket.h>
+#	include <sys/select.h>
+#	include <netinet/in.h>
+#	include <arpa/inet.h>
+#	include <netdb.h>
+#	include <fcntl.h>
+#	include <sys/ioctl.h>
+#	include <unistd.h>
+#	include <net/if.h>
+#	if HAVE_IFADDRS
+#		include <ifaddrs.h>
+#	endif
+#	if TNET_HAVE_POLL
+#		include <poll.h>
+#	endif /* TNET_HAVE_POLL */
+#endif
+
+#if defined(TNET_HAVE_SCTP)
+#include <netinet/sctp.h>
+#endif
+
+#include "tsk_errno.h"
+#include "tsk_list.h"
+
+TNET_BEGIN_DECLS
+
+typedef int32_t tnet_fd_t;
+typedef uint16_t tnet_port_t;
+typedef int32_t tnet_family_t;
+typedef char tnet_host_t[NI_MAXHOST];
+typedef char tnet_ip_t[INET6_ADDRSTRLEN];
+
+typedef tsk_list_t tnet_interfaces_L_t; /**< List of @ref tnet_interface_t elements.*/
+typedef tsk_list_t tnet_addresses_L_t; /**< List of @ref tnet_address_t elements.*/
+
+#if TNET_UNDER_WINDOWS
+#	define TNET_INVALID_SOCKET				INVALID_SOCKET
+#	define TNET_ERROR_WOULDBLOCK			WSAEWOULDBLOCK
+#	define TNET_ERROR_INPROGRESS			WSAEINPROGRESS
+#	define TNET_ERROR_CONNRESET				WSAECONNRESET
+#	define TNET_ERROR_INTR					WSAEINTR
+#	define TNET_ERROR_ISCONN				WSAEISCONN
+#	define TNET_ERROR_EAGAIN				TNET_ERROR_WOULDBLOCK /* WinSock FIX */
+#	if defined(_WIN32_WCE)
+#		define tnet_gai_strerror(...)		"FIXME"
+#	else
+#		define tnet_gai_strerror			gai_strerrorA
+#	endif
+#else
+#	define TNET_INVALID_SOCKET				-1
+#	define TNET_ERROR_WOULDBLOCK			EWOULDBLOCK
+#	define TNET_ERROR_INPROGRESS			EINPROGRESS
+#	define TNET_ERROR_CONNRESET				ECONNRESET
+#	define TNET_ERROR_INTR					EINTR
+#	define TNET_ERROR_ISCONN				EISCONN
+#	define TNET_ERROR_EAGAIN				EAGAIN
+#	define tnet_gai_strerror				gai_strerror
+#endif
+#define TNET_INVALID_FD				TNET_INVALID_SOCKET
+
+#ifdef _WIN32_WCE
+typedef TCHAR tnet_error_t[512];
+#else
+typedef char tnet_error_t[512];
+#endif
+
+TNET_END_DECLS
+
+#endif /* TNET_TYPES_H */
+
+

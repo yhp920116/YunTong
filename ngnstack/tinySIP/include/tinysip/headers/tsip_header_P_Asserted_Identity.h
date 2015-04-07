@@ -1,0 +1,44 @@
+
+/* 2012-03-07 */
+
+#ifndef _TSIP_HEADER_P_ASSERTED_IDENTITY_H_
+#define _TSIP_HEADER_P_ASSERTED_IDENTITY_H_
+
+#include "tinysip_config.h"
+#include "tinysip/headers/tsip_header.h"
+
+#include "tinysip/tsip_uri.h"
+
+TSIP_BEGIN_DECLS
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+/// @brief	SIP header 'P-Asserted-Identity' as per RFC 3325.
+///
+/// @par ABNF: P-Asserted-Identity = PAssertedID
+/// PAssertedID	=  	"P-Asserted-Identity" HCOLON PAssertedID-value *(COMMA PAssertedID-value)
+/// PAssertedID-value	= 	name-addr / addr-spec
+/// 	
+////////////////////////////////////////////////////////////////////////////////////////////////////
+typedef struct tsip_header_P_Asserted_Identity_s
+{	
+	TSIP_DECLARE_HEADER;
+
+	char *display_name;
+	tsip_uri_t *uri;
+}
+tsip_header_P_Asserted_Identity_t;
+
+typedef tsk_list_t tsip_header_P_Asserted_Identities_L_t;
+
+TINYSIP_API tsip_header_P_Asserted_Identity_t* tsip_header_P_Asserted_Identity_create();
+
+TINYSIP_API tsip_header_P_Asserted_Identities_L_t *tsip_header_P_Asserted_Identity_parse(const char *data, tsk_size_t size);
+
+TINYSIP_GEXTERN const tsk_object_def_t *tsip_header_P_Asserted_Identity_def_t;
+
+TSIP_END_DECLS
+
+#endif /* _TSIP_HEADER_P_ASSERTED_IDENTITY_H_ */
+

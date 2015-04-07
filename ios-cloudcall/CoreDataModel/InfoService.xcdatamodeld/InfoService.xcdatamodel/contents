@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3400" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Information" representedClassName="Information" syncable="YES">
+        <attribute name="account_birthdate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_gender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_level" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="account_localnum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_nickname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_qq" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_referee" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_sinaweibo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="account_thumbnail" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="identity_display_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identity_impi" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identity_impu" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identity_password" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Information" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

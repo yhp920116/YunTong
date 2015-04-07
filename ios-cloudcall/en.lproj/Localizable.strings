@@ -1,0 +1,1409 @@
+
+"[Audio]" = "[Audio]";
+"[Photo]" = "[Photo]";
+"[Medial URL]" = "[Medial URL]";
+
+"Only cell phone network is available. If you disable it, you will not able to use YunTong." = "Only cell phone network is available. If you disable it, you will not able to use YunTong.";
+
+"Only 3G network is available. Please allow YunTong to use 3G network." = "Only 3G network is available. Please allow YunTong to use 3G network.";
+
+"Only 3G network is available. Please enable 3G and try again." = "Only 3G network is available. Please enable 3G and try again.";
+
+"YunTong" = "YunTong";
+
+"No network connection" = "No network connection";
+"You have a new message" = "You have a new message";
+"OK" = "OK";
+"Call from\n%@" = "Call from\n%@";
+"Video call from\n%@" = "Video call from\n%@";
+/* defined in CloudCall2AppDelegate.mm - end */
+
+/* YES*/
+"YES" = "YES";
+
+/* NO */
+"NO" = "NO";
+
+/* 3G/2.5G */
+"3G/2.5G" = "3G/2.5G";
+
+/* A SkyBroad Inc. Product */
+"A SkyBroad Inc. Product" = "A SkyBroad Inc. Product";
+
+/*A text message (SMS) including password will be sent to the phone number\n%@.\nMake sure you input a correct phone number.*/
+"A text message (SMS) including password will be sent to the phone number\n%@.\nMake sure you input a correct phone number." = "A text message (SMS) including password will be sent to the phone number\n%@.\nMake sure you input a correct phone number.";
+
+/* About */
+"About" = "About";
+
+/* About YunTong */
+"About YunTong" = "About YunTong";
+
+/* Password */
+"Password" = "Password";
+
+/* Help */
+"Help" = "Help";
+
+/* Account Info */
+"Account Info" = "Account Info";
+
+/* Add */
+"Add" = "Add";
+
+/* Add %@ to Favorites as: */
+"Add %@ to Favorites as:" = "Add %@ to Favorites as:";
+
+/* Add to Conference Favorites */
+"Add to Conference Favorites" = "Add to Conference Favorites";
+
+/* Add to Existing Contact */
+"Add to Existing Contact" = "Add to Existing Contact";
+
+/* Add to Favorites */
+"Add to Favorites" = "Add to Favorites";
+
+/* All */
+"All" = "All";
+
+/* Address Book */
+"Address Book" = "All";
+
+/* Allow */
+"Allow" = "Allow";
+
+/* Allow to Sync Contacts */
+"Allow to Sync Contacts" = "Allow to Sync Contacts";
+
+/* Allow to Sync Contacts success */
+"Allow to Sync Contacts success" = "Allow to Sync Contacts success";
+
+/* Answer */
+"Answer" = "Answer";
+
+/* Are you sure you want to enable contacts sync? */
+"Are you sure you want to enable contacts sync?" = "Are you sure you want to enable contacts sync?";
+
+/* Are you sure you want to disable contacts sync? */
+"Are you sure you want to disable contacts sync?" = "Are you sure you want to disable contacts sync?";
+
+/* Are you sure you want to deavtivate current number? */
+"Are you sure you want to deavtivate current number?" = "Are you sure you want to deavtivate current number?";
+
+/* Are you sure to give up the operation? */
+"Are you sure to give up the operation?" = "Are you sure to give up the operation?";
+
+/* Back */
+"Back" = "Back";
+
+/* Balance */
+"Balance" = "Balance";
+
+/* Beyond character limit, please enter again(Chinese is %d,English is %d) */
+"Beyond character limit, please enter again(Chinese is %d,English is %d)" = "Beyond character limit, please enter again(Chinese is %d,English is %d)";
+
+/* Birthdate */
+"Birthdate" = "Birthdate";
+
+/* Buy %@ successfully! */
+"Buy %@ successfully!" = "Buy %@ successfully!";
+
+/* Buy %@ faild! */
+"Buy %@ faild!" = "Buy %@ faild!";
+
+/* Integral */
+"Integral" = "Integral";
+
+/* Integral Exchange */
+"Integral Exchange" = "Integral Exchange";
+
+/* Integral Exchange Error */
+"Integral Exchange Error" = "Integral Exchange Error";
+
+/* Integral Exchange... */
+"Integral Exchange..." = "Integral Exchange...";
+
+/* Integral Exchange failed, please try again later! */
+"Integral Exchange failed, please try again later!" = "Integral Exchange failed, please try again later!";
+
+/* Call */
+"Call" = "Call";
+
+/*Hangup*/
+"Hangup" = "Hangup";
+
+/* Calling */
+"Calling" = "Calling";
+
+/* call out via */
+"call out via" = "call out via";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Cell Phone */
+"Cell Phone" = "Cell Phone";
+
+/* Cellphone No: */
+"Cellphone No." = "Cellphone No.";
+
+/* Change */
+"Change" = "Change ";
+
+/* Check balance failed, please try again later! */
+"Check balance failed, please try again later!" = "Check balance failed, please try again later!";
+
+/* Checking balance... */
+"Checking balance..." = "Checking balance...";
+
+/* Check Update */
+"Check Update"="Check Update";
+
+/* Check update failed, please try again later! */
+"Check update failed, please try again later!" = "Check update failed, please try again later!";
+
+/* Checking update... */
+"Checking update..."="Checking update...";
+
+/* Clear */
+"Clear" = "Clear";
+
+/* Clear All */
+"Clear All" = "Clear All";
+
+/* Clear All History */
+"Clear All History" = "Clear All History";
+
+/* Clear All Participants */
+"Clear All Participants" = "Clear All Participants";
+
+/* Clear All Messages */
+"Clear All Messages" = "Clear All Messages";
+
+/* YunTong Friends */
+"YunTong Friends" = "YunTong";
+
+/* YunTong %@ is available now.\nRelease Notes:\n%@ */
+"YunTong %@ is available now.\nRelease Notes:\n%@"="YunTong %@ is available now.\nRelease Notes:\n%@";
+
+/* YunTong Callback */
+"YunTong Callback" = "YunTong Callback";
+
+/* YunTong Direct Call */
+"YunTong Direct Call" = "YunTong Direct Call";
+
+/* YunTong Friends Call */
+"YunTong Friends Call" = "YunTong Friends Call";
+
+"Customer Service" = "Customer Service";
+
+/* Codec */
+"Codec" = "Codec";
+
+/* Codecs */
+"Codecs" = "Codecs";
+
+/* Compose */
+"Compose" = "Compose";
+
+/* Commit */
+"Commit" = "Commit";
+
+/* Conference Favorites */
+"Conference Favorites"="Conference Favorites";
+
+/* Conference Scheduled */
+"Conference Scheduled"="Conference Scheduled";
+
+/* Conference starting... */
+"Conference starting..." = "Conference starting...";
+
+/* Connect status */
+"Connect status" = "Connect status";
+
+/* Connect to server failed, please check your network connection. */
+"Connect to server failed, please check your network connection." = "Connect to server failed, please check your network connection";
+
+/* Connect to server timeout, please check your network or try again later. */
+"Connect to server timeout, please check your network or try again later." = "Connect to server timeout, please check your network or try again later.";
+
+/* Connecting */
+"Connecting" = "Connecting";
+
+/* Connection timed out, please try again later. */
+"Connection timed out, please try again later." = "Connection timed out, please try again later.";
+
+/* Contact:  */
+"Contact: " = "Contact: ";
+
+/* Contact > */
+"Contact >" = "Contact >";
+
+/* ContactDetails */
+"ContactDetails" = "ContactDetails";
+
+/* Contacts */
+"Contacts" = "Contacts";
+
+/* Contacts Access */
+"Contacts Access" = "Contacts Access";
+
+/* Contact Number */
+"Contact Number" = "Contacts";
+
+/* Contacts Sync */
+"Contacts Sync" = "Sync";
+
+/* Contacts Sync... */
+"Contacts Sync..." = "Contacts Sync...";
+
+/* Contacts sync successfully */
+"Contacts sync successfully" = "Contacts sync successfully";
+
+/* Contacts Sync failed, please try again later! */
+"Contacts Sync failed, please try again later!" = "Contacts Sync failed, please try again later!";
+
+/* Continue to Exchange? */
+"Continue to Exchange?" = "Continue to Exchange?";
+
+/* Exchange the integral to YunTong points */
+"Exchange the integral to YunTong points" = "Exchange the integral to YunTong points";
+
+/* Get Code */
+"Get Code" = "Get Code";
+
+/* Log in */
+"Log in" = "Log in";
+
+/* Copyright declare */
+"Copyright declare" = "";//"Copyright © 2013 CloudTech.\nAll rights reserved.";
+
+/* Call out error */
+"Call out error"="Call out error";
+
+/* Could not make call, server not ready */
+"Could not make call, server not ready" = "Could not make call, server not ready";
+
+/* Could not synchronizing, server not ready */
+"Could not synchronizing, server not ready" = "Could not synchronizing, server not ready";
+
+/* Could not Exchanging, server not ready */
+"Could not Exchanging, server not ready" = "Could not Exchanging, server not ready";
+
+/* Create New Contact */
+"Create New Contact" = "Create New Contact";
+
+/* Please input the phone number first */
+"Please input the phone number first" = "Please input the phone number first";
+
+/* Continue */
+"Continue" = "Continue";
+
+/* Deactivate */
+"Deactivate" = "Deactivate";
+
+/* Decline */
+"Decline" = "Decline";
+
+/* Delete */
+"Delete" = "Delete";
+
+/* Deselect All */
+"Deselect All" = "Deselect All";
+
+/* Dial */
+"Dial" = "Dial";
+
+/* Dial Tone */
+"Dial Tone" = "Dial Tone";
+
+/* Discover */
+"Discover" = "Discover";
+
+/* Disclaimer */
+"Disclaimer" = "Disclaimer";
+
+/* Display Name */
+"Display Name" = "Display Name";
+
+/* "Do you want to delete template \"%@\"?" */
+"Do you want to delete template \"%@\"?"="Do you want to delete template \"%@\"?";
+
+/* Done */
+"Done" = "Done";
+
+/* Early IMS */
+"Early IMS" = "Early IMS";
+
+/* Earn YunTong Points */
+"Earn YunTong Points" = "Earn YunTong Points";
+
+/* Edit */
+"Edit" = "Edit";
+
+/* Enable STUN */
+"Enable STUN" = "Enable STUN";
+
+/* End */
+"End" = "End";
+
+/* End GroupCall */
+"End GroupCall" = "End GroupCall";
+
+/* Enter recharge card and password to get YunTong Points */
+"Enter recharge card and password to get YunTong Points" = "Enter recharge card and password to get YunTong Points";
+
+/* Enter the participant number */
+"Enter the participant number" = "Enter the participant number";
+
+/* Enter your phone number and press 'Continue': */
+"Enter your phone number and press 'Continue':" = "Enter your phone number and press 'Continue':";
+
+/* Enter the password you got and press 'OK‘: */
+"Enter the password you got and press 'OK‘:" = "Enter the password you got and press 'OK‘:";
+
+/* Exchange */
+"Exchange" = "Exchange";
+
+/* Favorites */
+"Favorites"="Favorites";
+
+/* Favorites Number */
+"Favorites Number"="Favorites";
+
+/* Group name is required */
+"Group name is required" = "Group name is required";
+
+/* Group */
+"Group" = "Group";
+
+/* GroupCall */
+"GroupCall" = "GroupCall";
+
+/* Group name already exist */
+"Group name already exist" = "Group name already exist, please input again";
+
+/* Female */
+"Female" = "Female";
+
+/* Gender */
+"Gender" = "Gender";
+
+/* Get YunTong Points */
+"Get YunTong Points" = "Get YunTong Points";
+
+/* Get Code Again */
+"Get Code Again" = "Get Code Again";
+
+/* Got %d YunTong points, your balance is %d YunTong points. */
+"Got %d YunTong points, your balance is %d YunTong points." = "Got %d YunTong points, your balance is %d YunTong points.";
+
+/* Hang up please, system will callback to your cell phone */
+"Hang up please, system will callback to your cell phone" = "Hang up please, system will callback to your cell phone";
+
+/* Success to call, system will callback to your cell phone */
+"Success to call, system will callback to your cell phone" = "Success to call, system will callback to your cell phone";
+
+/* Success to request, then your phone */
+"Success to request, then your phone %@" = "Success to request, then your phone %@";
+
+/* will be call, please receive it and we 'll be call for you. */
+"will be call, please receive it and we 'll be call %@ for you." = "will be call, please receive it and we 'll be call %@ for you.";
+
+/* Hide keypad */
+"Hide keypad" = "Hide keypad";
+
+/* History */
+"History" = "History";
+
+/* Hold Call + Answer */
+"Hold Call + Answer" = "Hold Call + Answer";
+
+/* Ignore */
+"Ignore" = "Ignore";
+
+/* In */
+"In" = "In";
+
+/* In Call */
+"In Call" = "In Call";
+
+/* In Conference */
+"In Conference" = "In Conference";
+
+/* In-App Purchases has been disabled, you can enable it in the Settings application. */
+"In-App Purchases has been disabled, you can enable it in the Settings application." = "In-App Purchases has been disabled, you can enable it in the Settings application.";
+
+/* Incoming call... */
+"Incoming call..." = "Incoming call...";
+
+/* Inquiry */
+"Inquiry" = "Inquiry";
+
+/* Install the recommended application to get YunTong points */
+"Install the recommended application to get YunTong points" = "Install the recommended application to get YunTong points";
+
+/* Install and use the recommended application to get Integral, Exchange Integral to the YunTong points */
+"Install and use the recommended application to get Integral, Exchange Integral to the YunTong points" = "Install and use the recommended application to get Integral, Exchange Integral to the YunTong points";
+
+/* Install the recommended application to get Integral, Exchange Integral to the YunTong points.\n(you have to install software that the computer haven't installed to gain Integral) */
+"Install the recommended application to get Integral, Exchange Integral to the YunTong points.\n(you have to install software that the computer haven't installed to gain Integral)"
+= "Install the recommended application to get Integral, Exchange Integral to the YunTong points.\n(you have to install software that the computer haven't installed to gain Integral)";
+
+/* Invalid password!\nYou need to get the password again. */
+"Invalid password!\nYou need to get the password again." = "Invalid password!\nYou need to get the password again.";
+
+/* Invalid password! */
+"Invalid password!" = "Invalid password!";
+
+/* Invalid phone number */
+"Invalid phone number" = "Invalid phone number";
+
+/* Invite */
+"Invite" = "Invite";
+
+/* Invite Friends */
+"Invite Friends" = "Invite Friends";
+
+/* Invite Friends to Join YunTong */
+"Invite Friends to Join YunTong" = "Invite to Join";
+
+/* Invite Friends to Join YunTong, Enjoy It */
+"Invite Friends to Join YunTong, Enjoy It" = "Invite Friends to Join YunTong";
+
+/* is a WeiCall user */
+"is a WeiCall user" = "is a YunTong user";
+
+/* integral. */
+"integral." = " integral.";
+
+/* is a WeiCall user */
+"is not a WeiCall user" = "is not a YunTong user";
+
+/* Lands Via WeiCall (Charge) */
+"Lands Via WeiCall (Charge)" = "Lands Via YunTong";
+
+"Last Updated:" = "Last Updated:";
+
+/* Listen Code */
+"Listen Code"="Listen Code";
+
+/* Listen Code Again */
+"Listen Code Again" = "Listen Code Again";
+
+/* Load */
+"Load"="Load";
+
+/* Loading... */
+"Loading..." = "Loading...";
+
+/* Login... */
+"Login..." = "Login...";
+
+/* Forget */
+"Forget" = "Forget";
+
+/* Register*/
+"Register" = "Register";
+
+/* AutoRegister*/
+"AutoRegister" = "AutoRegister";
+
+/* ManualRegister*/
+"ManualRegister" = "ManualRegister";
+
+"Next" = "Next";
+
+/* Please enter your password */
+"Please enter your password" = "Please enter your password";
+
+/* Please enter your password again */
+"Please enter your password again" = "Please enter your password again";
+
+/* Submit Code */
+"Submit Code" = "Submit Code";
+
+/* Get Verification Code */
+"Get Verification Code" = "Get Verification Code";
+
+/* Set Password*/
+"Set Password" = "Set Password";
+
+/* Input Again*/
+"Input Again" = "Input Again";
+
+/* GetPassword*/
+"GetPassword" = "GetPassword";
+
+/* ChangePassword*/
+"ChangePassword" = "ChangePassword";
+
+/* Phone Verification */
+"Phone Verification" = "Phone Verification";
+
+/* Set Password */
+"Set Password" = "Set Password";
+
+/* Registration Completed */
+"Registration Completed" = "Registration Completed";
+
+/* Reset Password */
+"Reset Password" = "Reset Password";
+
+/* Password Updated */
+"Password Updated" = "Password Updated";
+
+/* Login failed, make sure the phone number and password are correct. */
+"Login failed, make sure the phone number and password are correct." = "Login failed, make sure the phone number and password are correct.";
+
+/* Make Video call */
+"Make Video call" = "Make Video call";
+
+/* Male */
+"Male" = "Male";
+
+/* Messages */
+"Messages" = "Messages";
+
+/* Message Date Format */
+"Message Date Format" = "MMMM dd, yyyy HH:mm";
+
+/* Missed */
+"Missed" = "Missed";
+
+/* Discover */
+"Discover" = "Discover";
+
+"My Family" = "My Family";
+
+"My Friends" = "My Friends";
+
+/* My Number */
+"My Number" = "My Number";
+
+/* NAT */
+"NAT" = "NAT";
+
+/* Name */
+"Name" = "Name";
+
+/* Net Status */
+"Net Status" = "Net Status";
+
+/* Network */
+"Network" = "Network";
+
+/* Network connection is changed! */
+"Network connection is changed!" = "Network connection is changed!";
+
+/* Network connection is disconnected! */
+"Network connection is disconnected!" = "Network connection is disconnected!";
+
+/* Nickname */
+"Nickname" = "Nickname";
+
+/* No Code? */
+"No Code?" = "Get Code Again";
+
+/*No Email Account*/
+"No Email Account" = "No Email Account";
+
+/* No favorite */
+"No favorite" = "No favorite";
+
+/* No messages yet */
+"No messages yet" = "No messages yet";
+
+/* No Name */
+"No Name" = "No Name";
+
+/* No System Notification */
+"No System Notification" = "No System Notification";
+
+/* No selected contact */
+"No selected contact" = "No selected contact!";
+
+/* Not Allow */
+"Not Allow" = "Not Allow";
+
+/* Not receive code? Press 'Listen Code' or press 'Get Code Again'. */
+"Not receive code? Press 'Listen Code' or press 'Get Code Again'." = "Not receive code? Press 'Listen Code' or press 'Get Code Again'.";
+
+/* Not receive code? Press 'Listen Code' or press 'Get Code Again' after %02d seconds. */
+"Not receive code? Press 'Listen Code' or press 'Get Code Again' after %02d seconds." = "Not receive code? Press 'Listen Code' or press 'Get Code Again' after %02d seconds.";
+
+/* Not receive the call? Press 'Listen Code' or press 'Get Code Again'. */
+"Not receive the call? Press 'Listen Code' or press 'Get Code Again'."="Not receive the call? Press 'Listen Code' or press 'Get Code Again'.";
+
+/* Not receive the call? Press 'Listen Code' or press 'Get Code Again' after %02d seconds. */
+"Not receive the call? Press 'Listen Code' or press 'Get Code Again' after %02d seconds."="Not receive the call? Press 'Listen Code' or press 'Get Code Again' after %02d seconds.";
+
+
+/* Number */
+"Number" = "Number";
+
+/* Numpad */
+"Numpad" = "Numpad";
+
+/* No other participant */
+"No other participant" = "No other participant";
+
+/* No other participant to be deleted */
+"No other participant to be deleted" = "No other participant to be deleted";
+
+/* Not allow to clear participants when in conference */
+"Not allow to clear participants when in conference" = "Not allow to clear participants when in conference";
+
+/* Not allow to access favorites when in conference */
+"Not allow to access favorites when in conference" = "Not allow to access favorites when in conference";
+
+/* CCOffline */
+"CCOffline" = "Offline";
+
+/* CCOnline */
+"CCOnline" = "Online";
+
+"Official website: " = "Official website: ";
+
+"Official BBS: " = "Official BBS: ";
+
+"Sina weibo: " = "Sina weibo: ";
+
+"Tencent weibo: " = "Tencent weibo: ";
+
+"We chat public account: " = "We chat public account: ";
+
+/* Out */
+"Out" = "Out";
+
+/* Out of range */
+"Out of range" = "Out of range";
+
+/* Password */
+"Password" = "Password";
+
+/* Personal Information */
+"Personal Information" = "Personal Information";
+
+/* Phone Number Validation */
+"Phone Number Validation" = "Phone Number Validation";
+
+/* Please input your cell phone number */
+"Please input your cell phone number" = "Please input your cell phone number";
+
+/* Please input your verify code */
+"Please input your verify code" = "Please input your verify code";
+
+/* Port */
+"Port" = "Port";
+
+/* Powered by  */
+"Powered by " = "Powered by ";
+
+"Pull down to refresh" = "Pull down to refresh";
+
+/* Rate */
+"Rate" = "Rate";
+
+/* Reach the max participants limit! */
+"Reach the max participants limit!" = "Reach the max participants limit!";
+
+/* Participants Number */
+"Participants Number" = "Participants";
+
+/* QQ */
+"QQ" = "QQ";
+
+/* Quit */
+"Quit" = "Quit";
+
+/* Recharge */
+"Recharge" = "Recharge";
+
+/* Recharging %@... */
+"Recharging %@..." = "Recharging %@...";
+
+/* Recharge %@ successfully! */
+"Recharge %@ successfully!" = "Recharge %@ successfully!";
+
+/* Recharge %@ faild! */
+"Recharge %@ faild!" = "Recharge %@ faild!";
+
+/* Recharge successfully! Your balance is %d YunTong points. */
+"Recharge successfully! Your balance is %d YunTong points." = "Recharge successfully! Your balance is %d YunTong points.";
+
+/* Recharge failed! Please contact our customer service if you have any question. */
+"Recharge failed! Please contact our customer service if you have any question." = "Recharge failed! Please contact our customer service if you have any question.";
+
+/* Recharge YunTong Points */
+"Recharge YunTong Points" = "Recharge YunTong Points";
+
+/* Recharg failed, please try again later! */
+"Recharg failed, please try again later!" = "Recharg failed, please try again later!";
+
+/* Recharge service is unavailable, please try again later. */
+"Recharge service is unavailable, please try again later." = "Recharge service is unavailable, please try again later.";
+
+"Refresh failed, try again later!" = "Refresh failed, try again later!";
+
+"Release to refresh" = "Release to refresh";
+
+"Connect to server failed" = "Connect to server failed";
+"Invalid card" = "Invalid card";
+"Invalid card or password" = "Invalid card or password";
+"Invalid card including illegal character" = "Invalid card including illegal character";
+"Illegal operation" = "Illegal operation";
+"Not a YunTong user" = "Not a YunTong user";
+"Server execution failed" = "Server execution failed";
+"App Sotre verfiy faild" = "App Sotre verfiy faild";
+
+"Checking the recharge result..." = "Checking the recharge result...";
+"Check the recharge result timeout!" = "Check the recharge result timeout!";
+"Check your balance later if it has benn increased and contact our customer service if you have any question." = "Check your balance later if it has benn increased and contact our customer service if you have any question.";
+
+/* Recommended Application */
+"Recommended Application" = "Recommended Application";
+
+/* Register Now! */
+"Register Now!" = "Register Now!";
+
+/* Referee */
+"Referee" = "Referee";
+
+/* Refresh */
+"Refresh" = "Refresh";
+
+/* Rename */
+"Rename"="Rename";
+
+/* Rename template \"%@\" to */
+"Rename template \"%@\" to"="Rename template \“%@\” to";
+
+/* ringing */
+"ringing" = "ringing";
+
+/* Ringing */
+"Ringing" = "Ringing";
+
+/* Save */
+"Save" = "Save";
+
+/* Save Successfully */
+"Save Successfully" = "Save Successfully";
+
+/* Scheduled */
+"Scheduled"="Scheduled";
+
+/* Select All */
+"Select All" = "Select All";
+
+/* Send */
+"Send" = "Send";
+
+/* Send a text message */
+"Send a text message" = "Send a text message";
+
+/* Send free message */
+"Send free message" = "Send free message";
+
+/* Server */
+"Server" = "Server";
+
+/* Set Referee */
+"Set Referee" = "Set Referee";
+
+/* Set Referee... */
+"Set Referee..." = "Set Referee...";
+
+/* Set Referee successfully. */
+"Set Referee successfully." = "Set Referee successfully.";
+
+/* Set Referee, you and your referee both get YunTong points */
+"Set Referee, you and your referee both get YunTong points" = "Set Referee, you and your referee both get YunTong points";
+
+/* Set Referee failed, please try again later! */
+"Set Referee failed, please try again later!" = "Set Referee failed, please try again later!";
+
+/* Set referee failed, the referee you set is not a YunTong User! */
+"Set referee failed, the referee you set is not a YunTong User!" = "Set referee failed, the referee you set is not a YunTong User!";
+
+/* Set referee failed, you have set the referee! */
+"Set referee failed, you have set the referee!" = "Set referee failed, you have set the referee!";
+
+/* Settings */
+"Settings" = "Settings";
+
+"Shake to Sign In" = "Shake to Sign In";
+
+/* Sign In */
+"Sign In" = "Sign In";
+
+/* Sign in successlly. */
+"Sign in successlly." = "Sign in successlly.";
+
+/* Sign in failed, please try again later! */
+"Sign in failed, please try again later!" = "Sign in failed, please try again later!";
+
+/* Signing In... */
+"Signing In..." = "Signing In...";
+
+/* Sign in to get YunTong points */
+"Sign in to get YunTong points" = "Sign in to get YunTong points";
+
+/* Click the image to sign in,\n you can sign in 3 times everyday */
+"Click the image to sign in,\n you can sign in 3 times everyday" = "Click the image to sign in,\n you can sign in 3 times everyday";
+
+/* SinaWeibo */
+"SinaWeibo" = "SinaWeibo";
+
+/* SkyBroad Inc. */
+"SkyBroad Inc." = "SkyBroad Inc.";
+
+/* Start AudioC all */
+"Start AudioC all" = "Call";
+
+/* Start GroupCall */
+"Start GroupCall" = "Start GroupCall";
+
+/* Start conference successfully, a call will reach to your cellphone. */
+"Start conference successfully, a call will reach to your cellphone." = "Start conference successfully, a call will reach to your cellphone.";
+
+/* Start conference failed, please try again later! */
+"Start conference failed, please try again later!" = "Start conference failed, please try again later!";
+
+/* Still leave */
+"Still leave" = "Still leave ";
+
+"Submitting..." = "Submitting...";
+
+"Sync..." = "Sync...";
+
+/* System Notification */
+"System Notification" = "System Notification";
+
+/* Synchronizing */
+"Synchronizing" = "Synchronizing...";
+
+/* Synchronizing error*/
+"Synchronizing error" = "Synchronizing error";
+
+/* Talking */
+"Talking" = "Talking";
+
+/* Terminating... */
+"Terminating..." = "Terminating...";
+
+/* Text Message */
+"Text Message" = "Text Message";
+
+"The call will go out via your cell phone and you would be charged by your mobile service provide for this call." = "The call will go out via your cell phone and you would be charged by your mobile service provide for this call.";
+
+"The default GroupCall can be renamed or edited, but not deleted" = "The default GroupCall can be renamed or edited, but not deleted";
+
+/* The WeiCall needs to access your contacts and sync contacts. */
+"The WeiCall needs to access your contacts and sync contacts." = "The YunTong needs to access your contacts and sync contacts.";
+
+/* The phone number you input is\n%@.\nWe 'll call this number, please pay attention to answer and remember the password.*/
+"The phone number you input is\n%@.\nWe 'll call this number, please pay attention to answer and remember the password."="The phone number you input is\n%@.\nWe 'll call this number, please pay attention to answer and remember the password.";
+
+/* This number already exist in conference. */
+"This number already exist in conference." = "This number already exist in conference.";
+
+/* already exist in conference. */
+"already exist in conference." = "already exist in conference.";
+
+/* To determine which of your contacts are using WeiCall service, WeiCall needs to access your contacts. Then you can call your WeiCall contacts for free. */
+"To determine which of your contacts are using WeiCall service, WeiCall needs to access your contacts. Then you can call your WeiCall contacts for free." = "To determine which of your contacts are using YunTong service, YunTong needs to access your contacts. Then you can call your YunTong contacts for free.";
+
+/* Unknown */
+"Unknown" = "Unknown";
+
+/* Useful functions */
+"Useful functions" = "Useful functions";
+
+/* Unreachable */
+"Unreachable" = "Unreachable";
+
+/* Update */
+"Update" = "Update";
+
+/* Updating... */
+"Updating..." = "Updating...";
+
+/* Use 2G/3G */
+"Use 2G/3G" = "Use 2G/3G";
+
+/* Using Wizard */
+"Using Wizard"="Using Wizard";
+
+/* Version: */
+"Version:" = "Version:";
+
+/* Video Call... */
+"Video Call..." = "Video Call...";
+
+/* Voide Call */
+"Voide Call" = "Voide Call";
+
+/* WeiCall log */
+"WeiCall log" = "YunTong log";
+
+/* WeiCall Offline */
+"WeiCall Offline" = "Offline";
+
+/* WeiCall Online */
+"WeiCall Online" = "Online";
+
+/* Welcome to YunTong! Got %d YunTong points for the first time login, your balance is %d YunTong points. */
+"Welcome to YunTong! Got %d YunTong points for the first time login, your balance is %d YunTong points" = "Welcome to YunTong! Got %d YunTong points for the first time login, your balance is %d YunTong points";
+
+/* Invite WeiCall User */
+"Invite WeiCall User" = "Invite YunTong User";
+
+/* Invite Message Content */
+"Invite Message Content" = "I'm using YunTong, with it we can make call for free, the voice quality is good, please go to %@ to enjoy it!";
+
+/* WIFI */
+"WIFI" = "WIFI";
+
+/* would like Video Call... */
+"would like Video Call..." = "would like Video Call...";
+
+/* Why? */
+"Why?" = "Why?";
+
+/* You are using the latest version! */
+"You are using the latest version!" = "You are using the latest version!";
+
+/* You are using the latest version of YunTong!\nYunTong %@ is the latest version. */
+"You are using the latest version of YunTong!\nYunTong %@ is the latest version."="You are using the latest version of YunTong!\nYunTong %@ is the latest version.";
+
+/* You can not set youself as the referee. */
+"You can not set youself as the referee." = "You can not set youself as the referee.";
+
+/* You have signed in today, plase do it again tomorrow! */
+"You have signed in today, plase do it again tomorrow!" = "You have signed in today, plase do it again tomorrow!";
+
+/* You have %d integral. Do you want to exchang the integral to YunTong Points? */
+"You have %d integral. Do you want to exchang the integral to YunTong Points?" = "You have %d integral. Do you want to exchang the integral to YunTong Points?";
+
+/* You have no integral. */
+"You have no integral." = "You have no integral.";
+
+/* Your account info */
+"Your account info" = "Your account info";
+
+/* Your balance is %d YunTong points. */
+"Your balance is %d YunTong points." = "Your balance is %d YunTong points.";
+
+/* You must set up an email account for your device before you send mail. */
+"You must set up an email account for your device before you send mail." = "You must set up an email account for your device before you send mail.";
+
+/* No SMS Support */
+"No SMS Support" = "This device could not support SMS";
+
+/* Note Info*/
+"Note Info" = "Note Info";
+
+/* Moile phone */
+"Moile phone"="mobile";
+
+/* Moile */
+"Moile"=" China Mobile";
+
+/* Unicom */
+"Unicom"=" China Unicom";
+
+/* Telecom */
+"Telecom"=" China Telecom";
+
+/* China */
+"China"="China";
+
+/* Taiwan */
+"Taiwan"="Taiwan";
+
+/* HongKong */
+"HongKong"="HongKong";
+
+/* Macau */
+"Macau"="Macau";
+
+/* Enterprise phone */
+"Enterprise phone"="enterprise phone";
+
+/* FourZeroZeroPhone */
+"FourZeroZeroPhone"=" Telephone 400";
+
+/* Machine */
+"Machine"=" Machine";
+
+/* Added to the address book */
+"Added to the address book"="Added to the address book";
+
+/* Add Contact */
+"Add Contact"="+Add Contact";
+
+"Bad Request" = "Bad Request";
+
+"Unauthorized" = "Unauthorized";
+
+"Payment Required" = "Payment Required";
+
+"Forbidden"="Forbidden";
+
+"No YunTong Friends, Pull down refresh." = "No YunTong Friends, Pull down refresh.";
+
+"Not Found"="Not Found";
+
+"Method Not Allowed"="Method Not Allowed";
+
+"Not Acceptable"="Not Acceptable";
+
+"Proxy Authentication Required"="Proxy Authentication Required";
+
+"Request Timeout"="Request Timeout";
+
+"Conflict"="Conflict";
+
+"Gone"="Gone";
+
+"Length Required"="Length Required";
+
+"Request Entity Too Large"="Request Entity Too Large";
+
+"Request URI Too Long"="Request URI Too Long";
+
+"Unsupported Media Type"="Unsupported Media Type";
+
+"Unsupported URI Scheme"="Unsupported URI Scheme";
+
+"Bad Extension"="Bad Extension";
+
+"Extension Required"="Extension Required";
+
+"Interval Too Brief"="Interval Too Brief";
+
+"Temporarily Unavailable"="Temporarily Unavailable";
+
+"Call/Transaction Does Not Exist"="Call/Transaction Does Not Exist";
+
+"Loop Detected"="Loop Detected";
+
+"Too Many Hops"="Too Many Hops";
+
+"Address Incomplete"="Address Incomplete";
+
+"Ambiguous"="Ambiguous";
+
+"Busy Here"="Busy Here";
+
+"Request Terminated"="Request Terminated";
+
+"Not Acceptable Here"="Not Acceptable Here";
+
+"Request Pending"="Request Pending";
+
+"Undecipherable"="Undecipherable";
+
+"Server Internal Error"="Server Internal Error";
+
+"Not Implemented"="Not Implemented";
+
+"Bad Gateway"="Bad Gateway";
+
+"Service Unavailable"="Service Unavailable";
+
+"Server Time-Out"="Server Time-Out";
+
+"Version Not Supported"="Version Not Supported";
+
+"Message Too Large"="Message Too Large";
+
+"Busy Everywhere"="Busy Everywhere";
+
+"Declined"="Declined";
+
+"Does Not Exist Anywhere"="Does Not Exist Anywhere";
+
+"Not Acceptable"="Not Acceptable";
+
+"Offline"="Offline";
+
+"Without permission" = "Without permission";
+
+"wall points info tips" = "wall points info tips";
+
+"Insufficient balance" = "Insufficient balance";
+
+"The originator has joined in the other conference" = "The originator has joined in the other conference";
+
+"Exceeded participant limit" = "Exceeded participant limit";
+
+"Exceeded server limit" = "Exceeded server limit";
+
+"Unknown error" = "Unknown error";
+
+"Invalid conference ID"	= "Invalid conference ID";
+
+"The participant is not found in current conference" = "The participant is not found in current conference";
+
+"Please enter the the card number!" = "Please enter the the card number!";
+
+"Invalid card number!" = "Invalid card number!";
+
+"Please enter the password of the card!" = "Please enter the password of the card!";
+
+"Invalid password!" = "Invalid password!";
+
+"Invalid valid code!" = "Invalid valid code!";
+
+"Please enter the valid code!" = "Please enter the valid code!";
+
+"YunTong Rate" = "YunTong Rate";
+
+"YunTong Type" = "YunTong Type";
+
+"Too long to enter!" = "Too long to enter!";
+
+"Your name" = "True name,help your friend to find you!";
+
+"Your nickname" = "Your nickname!";
+
+"Your gender" = "Your gender!";
+
+"Your Birthday" = "Important,help to find password!";
+
+"Your QQ" = "Share with your QQ friend!";
+
+"Recive preferential info" = "Recive preferential info!";
+
+"Your SinaWeibo" = "Share with your Sina Weibo friend!";
+
+"You haven't sign in %d days, go to sign in get yuntong points?" = "You haven't sign in %d days, go to sign in get yuntong points?";
+
+"Thank you for your support" = "Success to submit your info!Thank you for your support!";
+
+"Too long to input" = "Too long to input,only 30 characters you can input!";
+
+"Invalid date" = "Invalid date!";
+
+"Invalid email" = "Invalid email!";
+
+"personal info tips" = "Complete,you can be given YunTong points!";
+
+"Happy to shake" = "Happy to shake";
+
+"Happy to shake detail" = "Get YunTong Points From Game";
+
+"Bet" = "Bet";
+
+"Gain" = "Gain";
+
+"Surplus" = "Surplus";
+
+"SlotMachine Network error" = "Network error,please try later!";
+
+"Game Rules" = "Game Rules";
+
+"Bet more than balance" = "Bet more than balance!";
+
+"Please select bet" = "Please select bet!";
+
+"Slotmachine request timeout" = "Request timeout!";
+
+"Sweepstakes statement" = "Sweepstakes Statement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
+
+"Sweepstakes statement announce" = "1.The distribution of lucky draw prizes belong to The CloudTech International Limited solely and exclusively , without any third party's participation . Any institutions or individual in the name of \"Agent\" or \"Authorizer\" , which might contact the user about the prizes , it should be fraudulent behavior . Please be careful.\n2.It should be free to claim lucky draw prizes . Any third party charge for prizes can be regarded as fraudulent behavior . Please be careful and refuse to pay any fees.\n3.The way to get lucky draw prizes of all winning user will be informed by  The CloudTech International Limited  staff within 10 working days .Any third party notice are invalid .";
+
+"I have read and agreed to the statement" = "I have read and agreed to the statement";
+
+"No longer prompt" = "No longer prompt";
+
+"Connecting..." = "Connecting...";
+
+"Network is unreachable" = "Network is unreachable";
+
+"Details" = "Details";
+
+"Prepaid directly" = "Recharge Directly";
+
+"Award Praise" = "Award Praise";
+
+"Award Praise Content" = "Hi,if you think YunTong is a cool app,could you kindly help to give a five-star praise in App Store(YunTong points giving)? We will do better with your encouragement.";
+
+"No longer remind" = "No longer remind";
+
+"Positive effect" = "Positive effect";
+
+"Cruel refused" = "Cruel refused";
+
+"Go now" = "Go now";
+
+"Wait for a moment" = "Wait for a moment";
+
+"Phones" = "Phones";
+
+"Search by number or letters" = "Search by number or letters";
+
+"Please a number" = "Please a number";
+
+"You can't call yourself" = "You can't call yourself";
+
+"You can't send message yourself" = "You can't send message yourself";
+
+"YunTong Coupon" = "YunTong Coupon";
+
+"My Pocket" = "My Pocket";
+
+"Use" = "Use";
+
+"Date of expiry" = "Date of expiry:";
+
+"Used" = "Used";
+
+"Fail to delete coupon" = "Fail to delete coupon,please make sure you network is fine!";
+
+"Can't use the coupon" = "Can't use the coupon,please make sure you network is fine!";
+
+"Confirm to delete coupon" = "Did you want to delete it? If Yes,you can't use it!";
+
+"Confirm to use coupon" = "Did you want to use it? If Yes,you can't use it again!";
+
+"Fail to get coupons info" = "Fail to get coupons info,please check you network is reachable";
+
+"You have no coupon" = "You have no coupon,you can get it from YunTong Coupon page!";
+
+"There is no coupon now" = "There is no coupon now";
+
+"lblThreeSmilesText" = "If you got three smiles\(^o^)/~~          The coupon will put in your pocket";
+
+"Could not load page" = "Could not load page";
+
+"This sweepstakes and prizes has nothing to do with Apple inc." = "This sweepstakes and prizes has nothing to do with Apple inc.";
+
+"Back/Wait(%ld sec)" = "Back/Wait(%ld sec)";
+
+"Today" = "Today";
+
+"Yesterday" = "Yesterday";
+
+"Hour(s)" = "Hour(s)";
+
+"Minute(s)" = "Minute(s)";
+
+"Sec(s)" = "Sec(s)";
+
+"Incoming" = "Incoming";
+
+"Call Out" = "Call Out";
+
+"MissedR" = "Missed";
+
+"Select Contact" = "Select Contact";
+
+"New contact" = "New contact";
+
+"Add to exist contact" = "Add to exist contact";
+
+"No record with this contact" = "No record with this contact";
+
+"Create Group" = "Create Group";
+
+"Please input group name" = "Please input group name";
+
+"Add Group Members >>" = "Add Group Members >>";
+
+"Access Failure" = "Access Failure";
+
+"Maybe you can" = "Maybe you can";
+
+"Remind" = "Remind";
+
+"Alert" = "Alert";
+
+"I know" = "I know";
+
+"Recharge by YunTong Card" = "Recharge by YunTong Card";
+
+"Recharge by Alipay" = "Recharge by Alipay";
+
+"More Preferential" = "More Preferential";
+
+"I recommend people" = "I recommend people";
+
+"Fail to load list,please try again later!" = "Fail to load list,please try again later!";
+
+"Please select a card" = "Please select a card";
+
+"Reservation" = "Reservation";
+
+"Mass SMS" = "Mass SMS";
+
+"Share" = "Share";
+
+"Topic" = " Topic";
+
+"Start Time" = " Start Time";
+
+"Members" = " Members";
+
+"Send Reservation SMS" = "Send Reservation SMS";
+
+"My Referee" = "My Referee";
+
+"Set recommended person and the recommended can gain points"
+="Set recommended person and the recommended can gain points";
+
+"I have gain %d yuntong points,%@ have gain %d yuntong points" = "I have gain %d yuntong points,%@ have gain %d yuntong points";
+
+"Recommended %d people successful,Gain %d yuntong points" = "Recommended %d people successful,Gain %d yuntong points";
+
+"You did not succeed recommend people, rush to invite friends to join the yuntong, both parties can gain yuntong points" = "You did not succeed recommend people, rush to invite friends to join the yuntong, both parties can gain yuntong points";
+
+"Copy Link" = "Copy Link";
+
+"Referee Top" = "Referee Top";
+
+"who is the best?" = "who is the best?";
+
+"Copy Successfully" = "Copy Successfully";
+
+"Share Link:" = "Share Link:";
+
+"Buy prepaid card" = "Buy prepaid card";
+
+"Prepaid Success!\nPlease check you account.Any question can be consulting us!" = "Prepaid Success!Please check you account.Any question can be consulting us!";
+
+"Prepaid prompt" = "Upgrade to VIP";
+
+"Success to save image!" = "Success to save image!";
+
+"Fail to save image!" = "Fail to save image!";
+
+"Full Image" = "Full Image";
+
+"Save to Phone" = "Save to Phone";
+
+"Hold to Talk" = "Hold to Talk";
+
+"Default" = "Default";
+
+"Really want to delete this message?" = "Really want to delete this message?";
+
+"Copy" = "Copy";
+
+"Too short to record" = "Too short to record";
+
+"Fail to Delete" = "Fail to Delete!";
+"Declare Content" = "YunTong Disclaimer\n\
+1.Acceptance: This is an agreement between CloudTech Ltd. Co.(\“YunTong\”), the owner and operator of the YunTong, and the YunTong Software and YunTong Client Data (collectively, including all Content available through the YunTong Website,YunTong Software and YunTong Client Data, the \“YunTong Products\”), and you (\“you\” or \“You\”), a user of the YunTong Products. By using the YunTong Products, you recognize and agree to these Terms of Service and the YunTong Privacy Policy , which is incorporated herein by reference. If you do not accept any of these terms, you must not use the YunTong Products.\n\
+2.Duration: This Agreement takes effect when you either click on the “I accept” button or link (or such other buttons and links that YunTong may decide to use) for installation of the YunTong Software, or the date when you first begin to use the YunTong Software, whichever is earlier.\n\
+3.Termination: If YunTong believes that you have committed any of the following acts, YunTong reserves the right to terminate these Terms of Service with immediate effect without recourse to the courts, and/or at YunTong’s sole discretion, take all necessary measures to temporarily block your access to the YunTong Products and YunTong Website or suspend your account with YunTong. The acts referred to are where YunTong considers, at its sole discretion, that you have:\n\
+1)breached the Terms of Service;\n\
+2)infringed the intellectual property rights of a third party;\n\
+3)committed any other act which has given rise to actual or potential legal action and/or liability;\n\
+4)instigated or taken part in fraudulent or illegal activities;\n\
+5)acted contrary to or failed to follow any of our policies;\n\
+6)committed any other acts of a comparable nature to those above.\n\
+4.Updates and Changes: YunTong may from time to time update or change these Terms of Service (with or without giving notice to you). You will be able to view the revised Terms of Service on the YunTong Website. It is your responsibility to check the YunTong Website for such changes. You agree that even if you should choose not to check for any changes to these Terms of Service, by continuing to use the YunTong Software and YunTong Products, you accept and agree to the changes and any revised Terms of Service. If you decide that you do not want to accept the changes or revised Terms of Service, then you can terminate your User Account by emailing YunTong customer support, and uninstalling the YunTong Software from your device.";

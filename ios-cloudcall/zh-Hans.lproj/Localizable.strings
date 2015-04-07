@@ -1,0 +1,1420 @@
+
+"[Audio]" = "[语音]";
+"[Photo]" = "[图片]";
+"[Medial URL]" = "[链接]";
+
+
+"Only cell phone network is available. If you disable it, you will not able to use YunTong." = "目前只有手机网络可用，禁止使用2g/3g网络，你将不能云通服务。";
+
+"Only 3G network is available. Please allow YunTong to use 3G network." = "只有2g/3g网络可用，云通无法访问服务器。在更多->设置里允许云通使用2g/3g网络以恢复云通服务。";
+
+"Only 3G network is available. Please enable 3G and try again." = "只有2g/3g网络可用，在更多->设置里允许云通使用2g/3g网络再尝试!";
+
+"YunTong" = "云通";
+
+"No network connection" = "无可用的数据网络";
+"You have a new message" = "你有一条新的消息";
+"OK" = "确定";
+"Call from\n%@" = "%@\n来电";
+"Video call from\n%@" = "%@\n视频来电";
+/* defined in CloudCall2AppDelegate.mm - end */
+
+/* YES*/
+"YES" = "是的";
+
+/* NO */
+"NO" = "不了";
+
+/* 3G/2.5G */
+"3G/2.5G" = "3G/2.5G";
+
+/* A SkyBroad Inc. Product */
+"A SkyBroad Inc. Product" = "A SkyBroad Inc. Product";
+
+/*A text message (SMS) including password will be sent to the phone number\n%@.\nMake sure you input a correct phone number.*/
+"A text message (SMS) including password will be sent to the phone number\n%@.\nMake sure you input a correct phone number." = "云通密码将通过短信方式发到以下号码\n%@.\n请确认你输入的号码是否正确。";
+
+/* About */
+"About" = "关于";
+
+/* About YunTong */
+"About YunTong" = "关于云通";
+
+/* Password */
+"Password" = "密码";
+
+/* Help */
+"Help" = "帮助";
+
+/* Account Info */
+"Account Info" = "账户信息";
+
+/* Add */
+"Add" = "增加";
+
+/* Add %@ to Favorites as: */
+"Add %@ to Favorites as:" = "添加%@到个人收藏";
+
+/* Add to Existing Contact */
+"Add to Existing Contact" = "添加到现有联系人";
+
+/* Add to Conference Favorites */
+"Add to Conference Favorites" = "新建群组";
+
+/* Add to Favorites */
+"Add to Favorites" = "添加到个人收藏";
+
+/* All */
+"All" = "全部";
+
+/* Address Book */
+"Address Book" = "电话本";
+
+/* Allow */
+"Allow" = "允许";
+
+/* Allow to Sync Contacts */
+"Allow to Sync Contacts" = "同步联系人";
+
+/* Answer */
+"Answer" = "接听";
+
+/* Are you sure you want to enable contacts sync? */
+"Are you sure you want to enable contacts sync?" = "确定打开联系人同步?";
+
+/* Are you sure you want to disable contacts sync? */
+"Are you sure you want to disable contacts sync?" = "确定关闭联系人同步?";
+
+/* Are you sure you want to deavtivate current number? */
+"Are you sure you want to deavtivate current number?" = "确定注销当前号码?";
+
+/* Are you sure to give up the operation? */
+"Are you sure to give up the operation?" = "确定退出当前操作?";
+
+/* Back */
+"Back" = "返回";
+
+/* Balance */
+"Balance" = "查询余额";
+
+/* Beyond character limit, please enter again(Chinese is %d,English is %d) */
+"Beyond character limit, please enter again(Chinese is %d,English is %d)" = "已超出字符限制,请重新输入(中文%d个,英文%d个)";
+
+/* Birthdate */
+"Birthdate" = "生日";
+
+/* Buy %@ successfully! */
+"Buy %@ successfully!" = "购买%@成功!";
+
+/* Buy %@ faild! */
+"Buy %@ faild!" = "购买%@失败!";
+
+/* Integral */
+"Integral" = "积分";
+
+/* Integral Exchange */
+"Integral Exchange" = "积分兑换";
+
+/* Integral Exchange Error */
+"Integral Exchange Error" = "积分兑换失败";
+
+/* Integral Exchange... */
+"Integral Exchange..." = "积分兑换...";
+
+/* Integral Exchange failed, please try again later! */
+"Integral Exchange failed, please try again later!" = "积分兑换失败，请稍后再试！";
+
+/* Call */
+"Call" = "呼叫";
+
+/*Hangup*/
+"Hangup" = "挂断";
+
+/* Calling */
+"Calling" = "正在呼叫";
+
+/* call out via */
+"call out via" = "请选择发起呼叫的方式";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* Cell Phone */
+"Cell Phone" = "手机直拨";
+
+/* Cellphone No. */
+"Cellphone No." = "手机号码";
+
+/* Change */
+"Change" = "更改";
+
+/* Check balance failed, please try again later! */
+"Check balance failed, please try again later!" = "查询失败，请稍后再试!";
+
+/* Checking balance... */
+"Checking balance..." = "查询余额...";
+
+/* Check Update */
+"Check Update"="新版本检测";
+
+/* Check update failed, please try again later! */
+"Check update failed, please try again later!" = "检查更新失败，请稍后再试!";
+
+/* Checking update... */
+"Checking update..."="检查更新...";
+
+/* Clear */
+"Clear" = "清除";
+
+/* Clear All */
+"Clear All" = "清除";
+
+/* Clear All History */
+"Clear All History" = "清除历史记录";
+
+/* Clear All Participants */
+"Clear All Participants" = "删除所有群呼成员";
+
+/* Clear All Messages */
+"Clear All Messages" = "清除所有消息";
+
+/* YunTong Friends */
+"YunTong Friends" = "云通好友";
+
+/* YunTong %@ is available now.\nRelease Notes:\n%@ */
+"YunTong %@ is available now.\nRelease Notes:\n%@"="云通 %@ 已经发布。\n更新说明:\n%@";
+
+/* YunTong Callback */
+"YunTong Callback" = "回拨(2G/3G网络下使用)";
+
+/* YunTong Direct Call */
+"YunTong Direct Call" = "直拨(WIFI网络下使用)";
+
+/* YunTong Friends Call */
+"YunTong Friends Call" = "好友通话";
+
+"Customer Service" = "小秘书";
+
+/* Codec */
+"Codec" = "编码";
+
+/* Codecs */
+"Codecs" = "编码";
+
+/* Compose */
+"Compose" = "发消息";
+
+/* Commit */
+"Commit" = "提交";
+
+/* Conference Favorites */
+"Conference Favorites"="群组列表";
+
+/* Conference Scheduled */
+"Conference Scheduled"="定时会议";
+
+/* Conference starting... */
+"Conference starting..." = "正在发起群呼...";
+
+/* Connect status */
+"Connect status" = "状态";
+
+/* Connect to server failed, please check your network connection. */
+"Connect to server failed, please check your network connection." = "连接服务器失败，请检查你的网络是否已经连接。";
+
+/* Connect to server timeout, please check your network or try again later. */
+"Connect to server timeout, please check your network or try again later." = "接服务器超时，请检查你的网络或稍后再试。";
+
+/* Connecting */
+"Connecting" = "登录中";
+
+/* Connection timed out, please try again later. */
+"Connection timed out, please try again later." = "连接超时，请稍后再试。";
+
+/* Contact:  */
+"Contact: " = "联系方式: ";
+
+/* Contact > */
+"Contact >" = "联系人 >";
+
+/* ContactDetails */
+"ContactDetails" = "联系人详情";
+
+/* Contacts */
+"Contacts" = "联系人";
+
+/* Contacts Access */
+"Contacts Access" = "允许访问联系人";
+
+/* Contact Number */
+"Contact Number" = "个联系人";
+
+/* Contacts Sync */
+"Contacts Sync" = "同步联系人";
+
+/* Contacts Sync... */
+"Contacts Sync..." = "同步联系人";
+
+/* Contacts sync successfully */
+"Contacts sync successfully" = "同步联系人成功";
+
+/* Contacts Sync failed, please try again later! */
+"Contacts Sync failed, please try again later!" = "同步联系人失败，请稍后再试!";
+
+/* Continue to Exchange? */
+"Continue to Exchange?" = "是否继续兑换?";
+
+/* Exchange the integral to YunTong points */
+"Exchange the integral to YunTong points" = "积分兑换点数";
+
+/* Get Code */
+"Get Code" = "短信获取验证码";
+
+/* Log in */
+"Log in" = "登  录";
+
+/* Copyright declare */
+"Copyright declare" = "深圳市优佰通网络通讯科技有限公司\n版权所有 © 2013";
+
+/* Call out error */
+"Call out error"="拨打出错";
+
+/* Could not make call, server not ready */
+"Could not make call, server not ready" = "未连接服务器，暂不能拨打电话。";
+
+/* Could not Exchanging, server not ready */
+"Could not Exchanging, server not ready" = "未连接服务器，暂不能兑换积分。";
+
+/* Create New Contact */
+"Create New Contact" = "创建新联系人";
+
+/* Please input the phone number first */
+"Please input the phone number first" = "请先输入电话号码";
+
+/* Continue */
+"Continue" = "继续";
+
+/* Log Out */
+"Log Out" = "注销";
+
+/* Decline */
+"Decline" = "拒绝";
+
+/* Delete */
+"Delete" = "删除";
+
+/* Deselect All */
+"Deselect All" = "取消全选";
+
+/* Dial */
+"Dial" = "拨打";
+
+/* Dial Tone */
+"Dial Tone" = "拨号按键音";
+
+/* Discover */
+"Discover" = "Discover";
+
+/* Disclaimer */
+"Disclaimer" = "免责声明";
+
+/* Display Name */
+"Display Name" = "显示名字";
+
+/* "Do you want to delete template \"%@\"?" */
+"Do you want to delete template \"%@\"?"="确定要删除\"%@\"?";
+
+/* Done */
+"Done" = "完成";
+
+/* Early IMS */
+"Early IMS" = "Early IMS";
+
+/* Earn YunTong Points */
+"Earn YunTong Points" = "赚取点数";
+
+/* Edit */
+"Edit" = "编辑";
+
+/* EMail */
+"EMail" = "邮箱";
+
+/* Enable STUN */
+"Enable STUN" = "STUN";
+
+/* End */
+"End" = "结束";
+
+/* End GroupCall */
+"End GroupCall" = "结束群呼";
+
+/* Enter recharge card and password to get YunTong Points */
+"Enter recharge card and password to get YunTong Points" = "购买点数";
+
+/* Enter the participant number */
+"Enter the participant number" = "请输入成员号码";
+
+/* Enter your phone number and press 'Continue': */
+"Enter your phone number and press 'Continue':" = "请输入你的手机号码，然后点击‘继续’:";
+
+/* Enter the password you got and press 'OK‘: */
+"Enter the password you got and press 'OK‘:" = "请输入你收到的密码，然后点击‘确定’:";
+
+/* Exchange */
+"Exchange" = "兑换";
+
+/* Favorites */
+"Favorites"="收藏夹";
+
+/* Favorites Number */
+"Favorites Number"="个收藏";
+
+/* Group name is required */
+"Group name is required" = "请输入群组的名称";
+
+/* Group */
+"Group" = "群组";
+
+/* GroupCall */
+"GroupCall" = "群呼";
+
+/* Group name already exist */
+"Group name already exist" = "该群组已经存在";
+
+/* Female */
+"Female" = "女";
+
+/* Gender */
+"Gender" = "性别";
+
+/* Get YunTong Points */
+"Get YunTong Points" = "获取点数";
+
+/* Get Code Again */
+"Get Code Again" = "重新获取验证码";
+
+/* Got %d YunTong points, your balance is %d YunTong points. */
+"Got %d YunTong points, your balance is %d YunTong points." = "获赠%d点，你的余额为%d点。";
+
+/* Hang up please, system will callback to your cell phone */
+"Hang up please, system will callback to your cell phone" = "请挂机，系统将自动回叫你的手机";
+
+/* Success to call, system will callback to your cell phone */
+"Success to call, system will callback to your cell phone" = "已成功发起回拨,系统将自动回叫你的手机,请稍等片刻......";
+
+/* Success to request, then your phone */
+"Success to request, then your phone %@" = "呼叫提交成功,稍后您的电话(%@)";
+
+/* will be call, please receive it and we 'll be call for you. */
+"will be call, please receive it and we 'll be call %@ for you." = "将会响铃,请先接听之后系统将会为您接通%@";
+
+/* Hide keypad */
+"Hide keypad" = "隐藏拨号键盘";
+
+/* History */
+"History" = "通话记录";
+
+/* Hold Call + Answer */
+"Hold Call + Answer" = "保持通话 + 接听";
+
+/* Ignore */
+"Ignore" = "拒绝";
+
+/* In */
+"In" = "来电";
+
+/* In Call */
+"In Call" = "通话中";
+
+/* In Conference */
+"In Conference" = "群呼中";
+
+/* In-App Purchases has been disabled, you can enable it in the Settings application. */
+"In-App Purchases has been disabled, you can enable it in the Settings application." = "应用程序内购买已被禁用，你可以在手机的‘设置’->'通用'->‘访问限制’里将其重新打开。";
+
+/* Incoming call... */
+"Incoming call..." = "来电...";
+
+/* Inquiry */
+"Inquiry" = "查询";
+
+/* Inquiry Balance */
+"Inquiry Balance" = "/Inquiry Balance";
+
+/* Install the recommended application to get YunTong points */
+"Install the recommended application to get YunTong points" = "下载安装推荐软件可获赠点数";
+
+/* Install and use the recommended application to get Integral, Exchange Integral to the YunTong points */
+"Install and use the recommended application to get Integral, Exchange Integral to the YunTong points" = "安装使用推荐软件可以获得积分，通过积分兑换获得点数";
+
+/* Install the recommended application to get Integral, Exchange Integral to the YunTong points */
+"Install the recommended application to get Integral, Exchange Integral to the YunTong points.\n(you have to install software that the computer haven't installed to gain Integral)" = "安装并使用新软件后获得积分,可兑换成相应的点数\n(安装本机未安装过的软件才能获取积分)";
+
+/* Invalid password!\nYou need to get the password again. */
+"Invalid password!\nYou need to get the password again." = "无效的密码或密码过期！\n请重新获取密码。";
+
+/* Invalid password! */
+"Invalid password!" = "无效的密码!";
+
+/* Invalid phone number */
+"Invalid phone number" = "无效的电话号码";
+
+/* Invite */
+"Invite" = "邀请";
+
+/* Invite Friends */
+"Invite Friends" = "邀请好友";
+
+/* Invite Friends to Join YunTong */
+"Invite Friends to Join YunTong" = "邀请TA加入云通";
+
+/* Invite Friends to Join YunTong, Enjoy It */
+"Invite Friends to Join YunTong, Enjoy It" = "邀请好友加入云通，欢乐畅聊在云通";
+
+/* is a WeiCall user */
+"is a WeiCall user" = "是云通用户";
+
+/* is not a WeiCall user */
+"is not a WeiCall user" = "不是云通用户";
+
+/* integral */
+"integral." = "积分。";
+
+"Last Updated:" = "最后更新：";
+
+/* Listen Code */
+"Listen Code" = "语音收听验证码";
+
+/* Listen Code Again */
+"Listen Code Again" = "重新收听验证码";
+
+/* Load */
+"Load"="载入";
+
+/* Loading... */
+"Loading..." = "正在载入...";
+
+/* Login... */
+"Login..." = "登录中...";
+
+/* Forget...*/
+"Forget" = "忘记密码";
+
+/* Register*/
+"Register" = "注册账号";
+
+/* AutoRegister*/
+"AutoRegister" = "自动注册";
+
+/* ManualRegister*/
+"ManualRegister" = "手动注册";
+
+"Next" = "下一步";
+
+/* Please enter your password */
+"Please enter your password" = "请输入你的登录密码";
+
+/* Please enter your password again */
+"Please enter your password again" = "请再次输入你的登录密码";
+
+/*Please enter your old password*/
+"Please enter your old password" = "请输入你的当前登录密码";
+
+/*Please enter your new password*/
+"Please enter your new password" = "请输入你的新密码";
+
+/*Old Password*/
+"Old Password" = "当前密码";
+
+/*Set New Password*/
+"Set New Password" = "新密码";
+
+/* Submit Code */
+"Submit Code" = "提交密码";
+
+/* Get Verification Code */
+"Get Verification Code" = "获取验证码";
+
+/* Set Password*/
+"Set Password" = "设置密码";
+
+/* Input Again*/
+"Input Again" = "再次输入";
+
+/* GetPassword*/
+"GetPassword" = "找回密码";
+
+/* ChangePassword*/
+"ChangePassword" = "修改密码";
+
+/* Phone Verification */
+"Phone Verification" = "手机验证";
+
+/* Set Password */
+"Set Password" = "密码设置";
+
+/* Registration Completed */
+"Registration Completed" = "注册成功";
+
+/* Reset Password */
+"Reset Password" = "重设密码";
+
+/* Password Updated */
+"Password Updated" = "修改成功";
+
+/* Login failed, make sure the phone number and password are correct. */
+"Login failed, make sure the phone number and password are correct." = "登录失败, 请检查手机号码和密码是否正确.";
+
+/* Make Video call */
+"Make Video call" = "发起视频呼叫";
+
+/* Male */
+"Male" = "男";
+
+/* Messages */
+"Messages" = "云信";
+
+/* Message Date Format */
+"Message Date Format" = "yyyy-MM-dd HH:mm";
+
+/* Missed */
+"Missed" = "未接来电";
+
+/* Discover */
+"Discover" = "广场";
+
+"My Family" = "我的家人";
+
+"My Friends" = "我的朋友";
+
+/* My Number */
+"My Number" = "本机号码";
+
+/* NAT */
+"NAT" = "NAT";
+
+/* Name */
+"Name" = "姓名";
+
+/* Net Status */
+"Net Status" = "网络状况";
+
+/* Network */
+"Network" = "网络配置";
+
+/* Network connection is changed! */
+"Network connection is changed!" = "网络已切换!";
+
+/* Network connection is disconnected! */
+"Network connection is disconnected!" = "网络已断开!";
+
+/* Nickname */
+"Nickname" = "昵称";
+
+/* No Email Account */
+"No Email Account" = "尚未配置电子邮箱账户";
+
+/* No favorite */
+"No favorite" = "没有收藏";
+
+/* No messages yet */
+"No messages yet" = "没有消息";
+
+/* No Name */
+"No Name" = "无名字";
+
+/* No System Notification */
+"No System Notification" = "无系统消息";
+
+/* No selected contact */
+"No selected contact" = "请先选中联系人!";
+
+/* Not Allow */
+"Not Allow" = "不允许";
+
+/* Not receive code? Press 'Listen Code' or press 'Get Code Again'. */
+"Not receive code? Press 'Listen Code' or press 'Get Code Again'." = "没收到密码?请点击'收听密码'或点击'重新获取密码'。";
+
+/* Not receive code? Press 'Listen Code' or press 'Get Code Again' after %02d seconds. */
+"Not receive code? Press 'Listen Code' or press 'Get Code Again' after %02d seconds." = "没收到密码? 请在%02d秒后点击'收听密码'或点击'重新获取密码'。";
+
+/* Not receive the call? Press 'Listen Code' or press 'Get Code Again'. */
+"Not receive the call? Press 'Listen Code' or press 'Get Code Again'."="没接到播放密码的呼叫?请点击'收听密码'或点击'重新获取密码'。";
+
+/* Not receive the call? Press 'Listen Code' or press 'Get Code Again' after %02d seconds. */
+"Not receive the call? Press 'Listen Code' or press 'Get Code Again' after %02d seconds."="没接到播放密码的呼叫? 请在%02d秒后点击'收听密码'或点击'重新获取密码'。";
+
+/* Number */
+"Number" = "号码";
+
+/* Numpad */
+"Numpad" = "拨号";
+
+/* No other participant */
+"No other participant" = "请先添加成员";
+
+/* No other participant to be deleted */
+"No other participant to be deleted" = "没有成员可删除";
+
+/* Not allow to clear participants when in conference */
+"Not allow to clear participants when in conference" = "群呼中不允许清空成员";
+
+/* Not allow to access favorites when in conference */
+"Not allow to access favorites when in conference" = "群呼中不能访问收藏夹";
+
+/* CCOffline */
+"CCOffline" = "离线";
+
+/* CCOnline */
+"CCOnline" = "在线";
+
+"Official website: " = "官方网站: ";
+
+"Official BBS: " = "官方论坛: ";
+
+"Sina weibo: " = "新浪微博: ";
+
+"Tencent weibo: " = "腾讯微博: ";
+
+"We chat public account: " = "微信公众账号: ";
+
+/* Out */
+"Out" = "去电";
+
+/* Out of range */
+"Out of range" = "已超出";
+
+/* Password */
+"Password" = "密码";
+
+/* Personal Information */
+"Personal Information" = "个人信息";
+
+/* Phone Number Validation */
+"Phone Number Validation" = "电话号码验证";
+
+/* Please input your cell phone number */
+"Please input your cell phone number" = "请输入你的手机号码";
+
+/* Please input your verify code */
+"Please input your verify code" = "请输入你的验证码";
+
+/* Port */
+"Port" = "端口";
+
+/* Powered by  */
+"Powered by " = "Powered by ";
+
+"Pull down to refresh" = "下拉刷新";
+
+/* Participants Number */
+"Participants Number" = "个成员";
+
+/* QQ */
+"QQ" = "QQ";
+
+/* Quit */
+"Quit" = "已退出";
+
+/* Rate */
+"Rate" = "码率";
+
+/* Reach the max participants limit! */
+"Reach the max participants limit!" = "已达最大成员个数限制!";
+
+/* Recharge */
+"Recharge" = "充值";
+
+/* Recharging %@... */
+"Recharging %@..." = "正在充值%@...";
+
+/* Recharge %@ successfully! */
+"Recharge %@ successfully!" = "成功充值%@!";
+
+/* Recharge %@ faild! */
+"Recharge %@ faild!" = "充值%@失败!";
+
+/* Recharge successfully! Your balance is YunTong points. */
+"Recharge successfully! Your balance is YunTong points." = "成功充值!你的余额为%d点。";
+
+/* Recharge failed! Please contact our customer service if you have any question. */
+"Recharge failed! Please contact our customer service if you have any question." = "充值失败！若你有任何疑问，请联系我们的客服人员。";
+
+/* Recharge YunTong Points */
+"Recharge YunTong Points" = "购买点数";
+
+/* Recharg failed, please try again later! */
+"Recharg failed, please try again later!" = "充值失败，请稍后再试！";
+
+/* Recharge service is unavailable, please try again later. */
+"Recharge service is unavailable, please try again later." = "充值服务连接出错，请稍后再试!";
+
+"Refresh failed, try again later!" = "更新失败，请稍后再试！";
+
+"Release to refresh" = "松开即刷新";
+
+"Connect to server failed" = "连接到服务器失败。";
+"Invalid card" = "无效的卡或该卡已经充值过";
+"Invalid card or password" = "充值卡或密码错误";
+"Invalid card including illegal character" = "输入的充值卡含有非法字符";
+"Illegal operation" = "非法操作";
+"Not a YunTong user" = "你充值的号码不存在，请确认该号码已经注册到云通";
+"Server execution failed" = "服务器执行失败，请检查是否输入有误";
+"App Sotre verfiy faild" = "苹果商店验证失败";
+
+"Checking the recharge result..." = "正查询充值结果...";
+"Check the recharge result timeout!" = "查询充值结果超时!";
+"Check your balance later if it has benn increased and contact our customer service if you have any question." = "请稍后查询余额是否增加。若有什么疑问，请联系我们的客服。";
+
+/* Recommended Application */
+"Recommended Application" = "推荐软件";
+
+/* Register Now! */
+"Register Now!" = "注册";
+
+/* Referee */
+"Referee" = "推荐人";
+
+/* Refresh */
+"Refresh" = "刷新";
+
+/* Rename */
+"Rename"="重命名";
+
+/* Rename template \"%@\" to */
+"Rename template \"%@\" to"="重命名\“%@\”为";
+
+/* ringing */
+"ringing" = "振铃";
+
+/* Ringing */
+"Ringing" = "振铃中";
+
+/* Save */
+"Save" = "保存";
+
+/* Save Successfully */
+"Save Successfully" = "保存成功";
+
+/* Scheduled */
+"Scheduled"="定时会议";
+
+/* Select All */
+"Select All" = "全选";
+
+/* Send */
+"Send" = "发送";
+
+/* Send a text message */
+"Send a text message" = "发送手机短信";
+
+/* Send free message */
+"Send free message" = "发送免费短信";
+
+"The call will go out via your cell phone and you would be charged by your mobile service provide for this call." = "\"手机直拨\"将使用系统自带的通信功能拨打电话，即会使用你的手机卡话费";
+
+/* Server */
+"Server" = "服务器";
+
+/* Set Referee */
+"Set Referee" = "设置推荐人";
+
+/* Set Referee... */
+"Set Referee..." = "设置推荐人...";
+
+/* Set Referee successfully. */
+"Set Referee successfully." = "设置推荐人成功。";
+
+/* Set Referee, you and your referee both get YunTong points */
+"Set Referee, you and your referee both get YunTong points" = "推荐人和被推荐人都可获赠点数";
+
+/* Set Referee failed, please try again later! */
+"Set Referee failed, please try again later!" = "设置推荐人失败，请稍后再试！";
+
+/* Set referee failed, the referee you set is not a YunTong User! */
+"Set referee failed, the referee you set is not a YunTong User!" = "设置推荐人失败，你要设置的推荐人不是云通用户！";
+
+/* Set referee failed, you have set the referee! */
+"Set referee failed, you have set the referee!" = "设置推荐人失败，你已经设置过推荐人！";
+
+/* Settings */
+"Settings" = "设置";
+
+"Shake to Sign In" = "每天签到\n“摇一摇”";
+
+/* Sign In */
+"Sign In" = "每天签到";
+
+/* Sign in successlly. */
+"Sign in successlly." = "每天签到成功。";
+
+/* Sign in failed, please try again later! */
+"Sign in failed, please try again later!" = "网络不佳,请稍后再试!";
+
+/* Signing In... */
+"Signing In..." = "每天签到...";
+
+/* Sign in to get YunTong points */
+"Sign in to get YunTong points" = "每天签到一次可获赠点数";
+
+/* Click the image to sign in,\n you can sign in 3 times everyday */
+"Click the image to sign in,\n you can sign in 3 times everyday" = "点击图片也可以签到哦，每天可以签到三次";
+
+/* SinaWeibo */
+"SinaWeibo" = "新浪微博";
+
+/* SkyBroad Inc. */
+"SkyBroad Inc." = "SkyBroad Inc.";
+
+/* Start AudioC all */
+"Start AudioC all" = "呼叫";
+
+/* Start GroupCall */
+"Start GroupCall" = "发起群呼";
+
+/* Start conference successfully, a call will reach to your cellphone. */
+"Start conference successfully, a call will reach to your cellphone." = "发起群呼成功，你的手机将会接到一个呼叫。";
+
+/* Start conference failed, please try again later! */
+"Start conference failed, please try again later!" = "发起群呼失败, 请稍后再试!";
+
+/* Still leave*/
+"Still leave" = "还剩下";
+
+"Submitting..." = "正在提交...";
+
+"Sync..." = "正在同步...";
+
+/* System Notification */
+"System Notification" = "系统消息";
+
+/* Talking */
+"Talking" = "通话中";
+
+/* Terminating... */
+"Terminating..." = "正在结束...";
+
+/* Text Message */
+"Text Message" = "短信";
+
+/* The WeiCall needs to access your contacts and sync contacts. */
+"The WeiCall needs to access your contacts and sync contacts." = "云通要访问并同步你的联系人信息.";
+
+"The default GroupCall can be renamed or edited, but not deleted" = "默认分组，不可删除哦!";
+
+/* This number already exist in conference. */
+"This number already exist in conference." = "该号码已经加入群呼。";
+
+/* already exist in conference. */
+"already exist in conference." = "已经加入群呼。";
+
+/*The phone number you input is\n%@.\nWe 'll call this number, please pay attention to answer and remember the password*/
+"The phone number you input is\n%@.\nWe 'll call this number, please pay attention to answer and remember the password."="你输入的号码是\n%@。\n云通将呼叫该号码，请注意接听电话并记下密码。";
+
+/* To determine which of your contacts are using WeiCall service, WeiCall needs to access your contacts. Then you can call your WeiCall contacts for free. */
+"To determine which of your contacts are using WeiCall service, WeiCall needs to access your contacts. Then you can call your WeiCall contacts for free." = "云通需要访问你的联系人信息来确定你的哪些联系人正在使用云通服务。这样你就可以免费拨打那些已经加入云通的联系人。";
+
+/* Unknown */
+"Unknown" = "未知";
+
+/* Useful functions */
+"Useful functions" = "实用功能";
+
+/* Unreachable */
+"Unreachable" = "无可用网络";
+
+/* Update */
+"Update" = "更新";
+
+/* Updating... */
+"Updating..." = "正在更新...";
+
+/* Use 2G/3G */
+"Use 2G/3G" = "使用2G/3G网络";
+
+/* Using Wizard */
+"Using Wizard"="使用向导";
+
+/* Version: */
+"Version:" = "版本:";
+
+/* Video Call... */
+"Video Call..." = "视频来电...";
+
+/* Voide Call */
+"Voide Call" = "视频通话";
+
+/* WeiCall log */
+"WeiCall log" = "云通日志";
+
+/* WeiCall Offline */
+"WeiCall Offline" = "未连接";
+
+/* WeiCall Online */
+"WeiCall Online" = "已连接";
+
+/* Welcome to YunTong! Got %d YunTong points for the first time login, your balance is %d YunTong points. */
+"Welcome to YunTong! Got %d YunTong points for the first time login, your balance is %d YunTong points" = "欢迎使用云通！首次登录获赠%d点，你的余额为%d点。";
+
+/* Invite WeiCall User */
+"Invite WeiCall User" = "邀请加入云通免费网络";
+
+/* Invite Message Content */
+"Invite Message Content" = "我正在使用云通免费网络电话，免费直拨全球电话！赶紧下载:%@/refer/index.php?invite=MTUwMTQyMDQwNjg=";
+
+/* WIFI */
+"WIFI" = "WIFI";
+
+/* would like Video Call... */
+"would like Video Call..." = "视频呼叫...";
+
+/* Why? */
+"Why?" = "为什么?";
+
+/* You are using the latest version! */
+"You are using the latest version!" = "你当前使用的是最新的版本!";
+
+/* You are using the latest version of YunTong!\nYunTong %@ is the latest version. */
+"You are using the latest version of YunTong!\nYunTong %@ is the latest version."="你使用的是最新版的云通!\n云通 %@ 是当前最新版本。";
+
+/* You can not set youself as the referee. */
+"You can not set youself as the referee." = "推荐人不能是本机号码。";
+
+/* You have signed in today, plase do it again tomorrow! */
+"You have signed in today, plase do it again tomorrow!" = "你今天已签到，请明天再来！";
+
+/* You have %d integral. Do you want to exchang the integral to YunTong Points? */
+"You have %d integral. Do you want to exchang the integral to YunTong Points?" = "你当前积分为:%i\n是否兑换成点数？";
+
+/* You have no integral. */
+"You have no integral." = "你当前的积分为零。";
+
+/* Your account info */
+"Your account info" = "账户信息";
+
+/* Your balance is %d YunTong points. */
+"Your balance is %d YunTong points." = "你的余额为%d点。";
+
+/* You must set up an email account for your device before you send mail. */
+"You must set up an email account for your device before you send mail." = "请先在设备上配置电子邮箱账户。";
+
+/* No SMS Support */
+"No SMS Support" = "设备不支持短信功能";
+
+/* Note Info*/
+"Note Info" = "提示信息";
+
+/* Moile phone */
+"Moile phone"="移动电话";
+
+/* Moile */
+"Moile"="移动";
+
+/* Unicom */
+"Unicom"="联通";
+
+/* Telecom */
+"Telecom"="电信";
+
+/* China */
+"China"="中国";
+
+/* Taiwan */
+"Taiwan"="台湾";
+
+/* HongKong */
+"HongKong"="香港";
+
+/* Macau */
+"Macau"="澳门";
+
+/* Enterprise phone */
+"Enterprise phone"="企业电话";
+
+/* FourZeroZeroPhone */
+"FourZeroZeroPhone"="400电话";
+
+/* Machine */
+"Machine"="应答机";
+
+/* Added to the address book */
+"Added to the address book"="添加到通讯录";
+
+/* Add Contact */
+"Add Contact"="+添加联系人";
+
+"Bad Request" = "被叫号码错误";
+
+"Unauthorized" = "未授权的";
+
+"Payment Required" = "余额不足，请充值";
+
+"Forbidden"="禁止";
+
+"No YunTong Friends, Pull down refresh." = "没有云通好友,可下拉同步.";
+
+"Not Found"="被叫号码不存在";
+
+"Method Not Allowed"="不允许的方法";
+
+"Not Acceptable"="不可接受";
+
+"Proxy Authentication Required"="Proxy要求验证";
+
+"Request Timeout"="对方无应答";
+
+"Conflict"="冲突";
+
+"Gone"="Gone";
+
+"Length Required"="要求指明长度";
+
+"Request Entity Too Large"="请求实体太大";
+
+"Request URI Too Long"="URI过长";
+
+"Unsupported Media Type"="媒体类型不支持";
+
+"Unsupported URI Scheme"="URI体系不支持";
+
+"Bad Extension"="Bad Extension";
+
+"Extension Required"="Extension Required";
+
+"Interval Too Brief"="间隔太短";
+
+"Temporarily Unavailable"="呼叫失败";
+
+"Call/Transaction Does Not Exist"="呼叫/事务不存在";
+
+"Loop Detected"="Loop Detected";
+
+"Too Many Hops"="Too Many Hops";
+
+"Address Incomplete"="地址不完整";
+
+"Ambiguous"="不明确的";
+
+"Busy Here"="对方忙";
+
+"Request Terminated"="请求被终止";
+
+"Not Acceptable Here"="不可接受的";
+
+"Request Pending"="Request Pending";
+
+"Undecipherable"="Undecipherable";
+
+"Server Internal Error"="线路忙，请稍后再拨";
+
+"Not Implemented"="Not Implemented";
+
+"Bad Gateway"="Bad Gateway";
+
+"Service Unavailable"="线路繁忙，请稍后再拨";
+
+"Server Time-Out"="服务器超时";
+
+"Version Not Supported"="版本不被支持";
+
+"Message Too Large"="消息太大";
+
+"Busy Everywhere"="全忙";
+
+"Declined"="呼叫被拒绝";
+
+"Does Not Exist Anywhere"="号码不存在";
+
+"Not Acceptable"="不可接受的";
+
+"Offline"="对方不在线";
+
+"Without permission" = "你没有权限进行此操作";
+
+"Insufficient balance" = "你的余额不足";
+
+"The originator has joined in the other conference" = "不能重复发起群呼";
+
+"Exceeded participant limit" = "群呼成员的数量超过限制，你最多可以同时群呼%d个用户";
+
+"Exceeded server limit" = "线路繁忙，请稍候再试!";
+
+"Enter YunTong" = "进入云通";
+
+"Unknown error" = "操作失败";
+
+"Invalid conference ID"	= "群呼不存在";
+
+"The participant is not found in current conference" = "成员已经被删除";
+
+"Please enter the the card number!" = "请输入充值卡号";
+
+"Invalid card number!" = "无效的充值卡号";
+
+"Please enter the password of the card!" = "请输入充值卡密码!";
+
+"Invalid password!" = "无效的密码!";
+
+"Invalid valid code!" = "无效的验证码!";
+
+"Please enter the valid code!" = "请输入验证码";
+
+"YunTong Rate" = "费率";
+
+"YunTong Type" = "拨号方式介绍";
+
+"Too long to enter!" = "您输入的名字过长!";
+
+"Your name" = "输入真实姓名,让好友能够找到你";
+
+"Your nickname" = "您的昵称";
+
+"Your gender" = "您的性别,交友必备哦";
+
+"Your Birthday" = "重要,可以用于找回密码";
+
+"Your QQ" = "与你的Q友一起分享云通";
+
+"Recive preferential info" = "接收优惠通知";
+
+"Your SinaWeibo" = "与微博好友一起分享云通";
+
+"Thank you for your support" = "提交成功,感谢您对云通的支持!";
+
+"Too long to input" = "您输入的姓名过程,最多只能输入30个字符!";
+
+"Invalid date" = "日期不合法!";
+
+"Invalid email" = "邮箱格式不正确!";
+
+"personal info tips" = "填写真实完整的个人信息可获赠点数!";
+
+"Happy to shake" = "欢乐\"摇一摇\"";
+
+"Happy to shake detail" = "边玩边赚点数";
+
+"Bet" = "投入点数";
+
+"Gain" = "中奖点数";
+
+"Surplus" = "我的余额";
+
+"SlotMachine Network error" = "网络状况不佳,请稍后再试";
+
+"Game Rules" = "游戏规则";
+
+"Bet more than balance" = "您兜里的点数不够啦!";
+
+"Please select bet" = "请选择投注额!";
+
+"Slotmachine request timeout" = "请求超时,无法获取数据!";
+
+"Sweepstakes statement" = "抽奖活动声明\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
+
+"Sweepstakes statement announce" = "1、抽奖活动的奖品发放由深圳市优佰通网络通讯科技有限公司独家、全权负责，无任何第三方机构参与。任何以代理人、被授权人或被委托人等名义与用户联系抽奖、发放或奖品领取等事宜的机构或个人，均属欺诈，请勿上当。\n2、抽奖活动所有过程及奖品领取均为免费进行，如有第三方机构以本抽奖活动为由收取任何费用，皆属欺诈行为，请中奖用户不要轻信，并拒付任何费用。\n3、所有中奖用户的领奖方式将在中奖后10个工作日内，由深圳市优佰通网络通讯科技有限公司客服人员进行通知，其他第三方机构通知皆为无效。";
+/*"Sweepstakes statement announce" = "1、抽奖活动的奖品发放由云端科技国际有限公司独家、全权负责，无任何第三方机构参与。任何以代理人、被授权人或被委托人等名义与用户联系抽奖、发放或奖品领取等事宜的机构或个人，均属欺诈，请勿上当。\n2、抽奖活动所有过程及奖品领取均为免费进行，如有第三方机构以本抽奖活动为由收取任何费用，皆属欺诈行为，请中奖用户不要轻信，并拒付任何费用。\n3、所有中奖用户的领奖方式将在中奖后10个工作日内，由云端科技国际有限公司客服人员进行通知，其他第三方机构通知皆为无效。";
+*/
+
+"I have read and agreed to the statement" = "已阅读并同意本活动声明";
+
+"No longer prompt" = "下次不再提示";
+
+"Connecting..." = "正在连接......";
+
+"Network is unreachable" = "网络连接不可用";
+
+"Details" = "查看详情";
+
+"Prepaid directly" = "直接充值";
+
+"Prepaid Success" = "充值成功";
+
+"Prepaid Fail" = "充值失败";
+
+"Award Praise" = "给云通好评";
+
+"Award Praise Content" = "您好！如果您觉得“云通网络电话”做得还算用心，那不妨去appstore给个五星好评(赠送点数)，鼓励一下我们吧。";
+
+"No longer remind" = "不再提醒";
+
+"Positive effect" = "正有此意";
+
+"Cruel refused" = "残忍拒绝";
+
+"Go now" = "立即前往";
+
+"Wait for a moment" = "稍后再去";
+
+"wall points info tips" = "部分软件赠送积分可能会有延迟,请稍后再兑换.";
+
+"Phones" = "电话";
+
+"Search by number or letters" = "请输入号码或拼音搜索";
+
+"Please a number" = "请选择一个号码";
+
+"You can't call yourself" = "不能拨打登录号码";
+
+"You can't send message yourself" = "不能发信息给自己";
+
+"You haven't sign in %d days, go to sign in get YunTong points?" = "亲爱的云通用户，您已经%d天没有签到了，免费时长被白白浪费了哦，赶紧去签到吧。";
+
+"YunTong Coupon" = "优惠券";
+
+"My Pocket" = "我的口袋";
+
+"Use" = "使用此券";
+
+"Date of expiry" = "有效期至:";
+
+"Used" = "已使用";
+
+"Fail to delete coupon" = "删除优惠券失败,请确保您的网络状况是良好的!";
+
+"Can't use the coupon" = "无法使用该优惠券,请确保您的网络状况是良好的!";
+
+"Confirm to delete coupon" = "确定删除此券？一旦您删除此券，将无法使用。";
+
+"Confirm to use coupon" = "确定使用此券？此券只有一次使用机会，使用后将无法再次使用。";
+
+"Fail to get coupons info" = "获取列表失败,请检查您的网络";
+
+"You have no coupon" = "您暂时还没有优惠券,请到云通优惠券试试您的运气获取优惠券吧";
+
+"There is no coupon now" = "暂时没有优惠券信息";
+
+"lblThreeSmilesText" = "抽到3个笑脸,这张优惠券就归你\(^o^)/~~        摇到的优惠券会自动放入口袋哦";
+
+"Could not load page" = "无法加载页面";
+
+"This sweepstakes and prizes has nothing to do with Apple inc." = "      本抽奖活动和奖品与苹果公司无关";
+
+"Back/Wait(%ld sec)" = "返回等待( %ld秒 )";
+
+"Today" = "今天";
+
+"Yesterday" = "昨天";
+
+"Hour(s)" = "小时";
+
+"Minute(s)" = "分";
+
+"Sec(s)" = "秒";
+
+"Incoming" = "呼入";
+
+"Call Out" = "呼出";
+
+"MissedR" = "未接";
+
+"Select Contact" = "选择联系人";
+
+"New contact" = "+新建联系人";
+
+"Add to exist contact" = "+添加到已有联系人";
+
+"No record with this contact" = "无与该联系人的通话记录,赶紧用云通免费拨给他吧";
+
+"Create Group" = "创建群组";
+
+"Please input group name" = "请输入群组名称";
+
+"Add Group Members >>" = "添加群组成员>>";
+
+"Access Failure" = "未接通";
+
+"Maybe you can" = "您可以";
+
+"Remind" = "提醒";
+
+"Alert" = "提示";
+
+"I know" = "知道了";
+
+"Recharge by YunTong Card" = "充值卡充值";
+
+"Recharge by Alipay" = "支付宝充值";
+
+"More Preferential" = "查看最新优惠";
+
+"I recommend people" = "我推荐的人";
+
+"Fail to load list,please try again later!" = "无法加载充值列表,请稍后再试!";
+
+"Please select a card" = "请选择充值卡";
+
+"Reservation" = "预约";
+
+"Mass SMS" = "群发短信";
+
+"Share" = "分享";
+
+"Topic" = "主题";
+
+"Start Time" = "开始时间";
+
+"Members" = "成员";
+
+"Send Reservation SMS" = "发送预约短信";
+
+"My Referee" = "我的推荐人";
+
+"Referee Top" = "推荐排行榜";
+
+"who is the best?" = "比比谁推荐的人更多";
+
+"Set recommended person and the recommended can gain points"
+="推荐人与被推荐人均可获取点数";
+
+"I have gain %d YunTong points,%@ have gain %d YunTong points" = "我已获得%d点，%@已获得%d点";
+
+"Recommended %d people successful,Gain %d YunTong points" = "成功推荐%d个人,获得%d点";
+
+"You did not succeed recommend people, rush to invite friends to join the YunTong, both parties can gain YunTong points" = "您没有成功推荐的人，赶紧去邀请好友加入云通吧，双方都可获取点数哦";
+
+"Copy Link" = "复制链接";
+
+"Copy Successfully" = "复制成功";
+
+"Share Link:" = "分享链接:";
+
+"*Any person through this special link to download the registration cloud call, and fill in the real phone number, you will receive a 200 YunTong points" = "*任何人通过此专用链接下载注册云通，并填写真实手机号，您都将获得200点";
+
+"Buy prepaid card" = "购买充值卡";
+
+"Prepaid Success!\nPlease check you account.Any question can be consulting us!" = "充值成功!请检查你的账户余额,如果有疑问请联系我们!";
+
+"Prepaid prompt" = "充值成功即可成为VIP会员,尽享三大特权!";
+
+"Success to save image!" = "图片保存成功!";
+
+"Fail to save image!" = "图片保存失败!";
+
+"Full Image" = "原图发送";
+
+"Save to Phone" = "保存到手机";
+
+"Hold to Talk" = "按住 说话";
+
+"Default" = "默认表情";
+
+"Really want to delete this message?" = "确定删除该条消息?";
+
+"Copy" = "复制";
+
+"Too short to record" = "录音时间太短";
+
+"Fail to Delete" = "删除失败!";
+
+"Declare Content" =
+"YunTong Disclaimer\n\
+1.Acceptance: This is an agreement between CloudTech Ltd. Co.(\“YunTong\”), the owner and operator of the YunTong, and the YunTong Software and YunTong Client Data (collectively, including all Content available through the YunTong Website,YunTong Software and YunTong Client Data, the “YunTong Products”), and you (\“you\” or \“You\”), a user of the YunTong Products. By using theYunTong Products, you recognize and agree to these Terms of Service and the YunTong Privacy Policy , which is incorporated herein by reference. If you do not accept any of these terms, you must not use the YunTong Products.\n\
+2.Duration: This Agreement takes effect when you either click on the “I accept” button or link (or such other buttons and links that YunTong may decide to use) for installation of the YunTong Software, or the date when you first begin to use the YunTong Software, whichever is earlier.\n\
+3.Termination: If YunTong believes that you have committed any of the following acts, YunTong reserves the right to terminate these Terms of Service with immediate effect without recourse to the courts, and/or at YunTong’s sole discretion, take all necessary measures to temporarily block your access to the YunTong Products and YunTong Website or suspend your account with YunTong. The acts referred to are where YunTong considers, at its sole discretion, that you have:\n\
+1)breached the Terms of Service;\n\
+2)infringed the intellectual property rights of a third party;\n\
+3)committed any other act which has given rise to actual or potential legal action and/or liability;\n\
+4)instigated or taken part in fraudulent or illegal activities;\n\
+5)acted contrary to or failed to follow any of our policies;\n\
+6)committed any other acts of a comparable nature to those above.\n\
+4.Updates and Changes: YunTong may from time to time update or change these Terms of Service (with or without giving notice to you). You will be able to view the revised Terms of Service on the YunTong Website. It is your responsibility to check the YunTong Website for such changes. You agree that even if you should choose not to check for any changes to these Terms of Service, by continuing to use the YunTong Software and YunTong Products, you accept and agree to the changes and any revised Terms of Service. If you decide that you do not want to accept the changes or revised Terms of Service, then you can terminate your User Account by emailing YunTong customer support, and uninstalling the YunTong Software from your device.";

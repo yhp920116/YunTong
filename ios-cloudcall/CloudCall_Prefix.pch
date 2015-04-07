@@ -1,0 +1,85 @@
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+//xmpp file type
+enum {
+    FileType_Text = 0,
+    FileType_Photo,
+    FileType_Audio,
+    FileType_MedialURL
+};
+
+#define INTERFACE_IS_PAD     ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad)
+#define INTERFACE_IS_PHONE   ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone)
+
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define SystemVersion [[[UIDevice currentDevice] systemVersion] floatValue]
+
+#define CloudCallVersion [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleVersion"]
+
+#define AppKeyIdForBill @"YunTongBill"
+
+#define kConfigServerAddr1      @"s1.callwine.net"
+#define kConfigServerAddr2      @""
+#define kConfigServerAddr3      @""
+
+#define kBLServerAddr           @"120.31.134.130"
+#define kBLServerPort           8082
+
+#define Conf_Server_Addr        @"conf.cloudcall.hk"
+#define Conf_Server_Addr_2nd    @"219.137.27.92"
+#define Conf_Server_PORT        8001
+
+//各类key
+/////////////////////////////////////////////////////////////////
+#define immobBannerKey  @"f708a9ebcb2c3a7ce0a934dd3d262137"
+#define immobWallKey    @"ea9b97fbb5655f0dbcd0cef2a0004f9d"
+
+#define DianRuWallKey   @"0000650E0F0000CC"
+
+#define DianJin_ID      37041
+#define DianJin_key     @"eec322d5f77271e3daaf1dc87996fec7"
+
+//百度ID
+#define kBaiduAppID     @"fdd4e684"
+#define kBaiduAppSpec   @"fdd4e684"
+
+
+//芒果ID
+#define MoGo_ID         @"99a7ee62a4af4dbebb284f93f24c212a"
+
+#define UMENG_APP_KEY   @"5201b2ef56240b250104e7ae"
+#define ShareSDK_key    @"75c8d74df60"
+
+#define kAppRedirectURI         @"http://m.callwine.net"
+
+#define kSinaAppKey             @"511208307"
+#define kSinaAppSecret          @"b54644743d1336e0e3af59f87af9904f"
+
+#define kTencentWeiboAppKey     @"801373714"
+#define kTencentWeiboAppSecret  @"0a5af0677d7fd7d4fa2833cf24a82a51"
+
+#define kQZoneAppKey            @"100497286"
+#define kQZoneAppSecret         @"5d15e5a84fb1e8c0dcf8707b356f3e28"
+
+#define kDouBanAppKey           @"06756b6a52cc4f371360423ef864eda5"
+#define kDouBanAppSecret        @"075dc58711cef055"
+
+#define kQQAppId                @"QQ05FD7786"
+#define kWeChatAppId            @"wx1e117e640847971c"
+/////////////////////////////////////////////////////////////////
+
+#define kCheckVersionUpdateNotification     @"kCheckVersionUpdateNotification"
+
+#define kDefaultDB              @"DataBase.db"
+#define kAreaOfPhoneNumberDB    @"mobile.db"
+#define kAdsDB                  @"Ads.db"
+
+#define IMEncrypt_XMPP_Enable 1
+#define IMEncrypt_HTTP_Enable 1
+
+
+
